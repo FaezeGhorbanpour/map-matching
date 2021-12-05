@@ -1,0 +1,3 @@
+ssh -l ubuntu -p 1066 213.233.161.144
+osrm-routed --max-matching-size=1000 tehran_export.osrm
+
